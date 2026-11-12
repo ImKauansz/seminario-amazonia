@@ -1,0 +1,47 @@
+COMO COLOCAR A APRESENTAÇÃO NA TELEVISÃO
+
+O pacote oferece slides em formato de apresentação e um roteiro separado. Mostre os slides na TV e deixe o roteiro com quem está falando.
+
+1. ESCOLHA O ARQUIVO
+
+PDF
+Abra o arquivo .pdf em um leitor de PDF. Coloque em tela cheia e avance uma página por vez. Cada página corresponde a uma tela da apresentação. O PDF preserva a posição dos textos e das imagens.
+
+POWERPOINT
+Abra o arquivo .pptx no PowerPoint ou em outro programa compatível. Use o modo Apresentação de Slides, começando pela primeira tela. Se o programa oferecer modo do apresentador, confira quais informações aparecem na TV: a turma deve ver o slide, enquanto as notas ficam com você.
+
+HTML
+Abra o arquivo .html em um navegador. Use os controles de apresentação e avanço disponíveis e coloque a janela em tela cheia. Uma prévia de arquivo do celular pode não executar a interatividade. Nesse caso, use o PDF ou abra a versão interativa em um navegador compatível.
+
+IMAGENS JPG (PASTA imagens-tv)
+Cada imagem é um slide em resolução Full HD (1920 x 1080). Os arquivos estão numerados de slide-01.jpg a slide-16.jpg. Essa opção permite usar o visualizador de fotos de uma televisão que aceite JPG por USB.
+
+2. MOSTRE A TELA NA TV
+
+COMPUTADOR COM HDMI
+Conecte o computador à entrada HDMI da televisão e selecione essa entrada no controle da TV. Abra os slides no computador. Você pode duplicar a tela ou, se souber configurar, estender a área de trabalho para deixar a apresentação na TV e as notas no computador.
+
+CELULAR OU COMPUTADOR POR ESPELHAMENTO
+Use a função de transmissão ou espelhamento disponível nos seus aparelhos, se eles forem compatíveis. Selecione a TV e abra os slides em tela cheia. O procedimento depende do celular, do computador e da televisão.
+
+PENDRIVE
+Extraia o ZIP e copie a pasta imagens-tv para o pendrive. Conecte-o à TV e, se ela tiver um visualizador de fotos compatível com JPG, abra slide-01.jpg e avance com o controle. Se houver apresentação automática de fotos, ajuste ou desligue o avanço automático para acompanhar a fala do grupo. A leitura de PDF, PowerPoint ou HTML diretamente por USB depende dos formatos aceitos pela televisão. HDMI e espelhamento permitem que o computador ou celular abra esses arquivos e envie a imagem à TV.
+
+3. TESTE ANTES DA AULA
+
+Confira se a TV mostra os slides inteiros, sem cortar as bordas.
+Passe pelas primeiras telas e pelas duas propagandas para verificar a leitura à distância.
+Confirme que as fotografias aparecem.
+Treine o avanço e a volta dos slides.
+Mantenha o roteiro no celular, no caderno ou na tela do apresentador.
+Combine a ordem das falas. Todos os integrantes devem apresentar.
+
+4. NA HORA DE APRESENTAR
+
+Comece pela pergunta “Amazônia: progresso para quem?”.
+Explique as ideias usando as imagens, sem ler os parágrafos do roteiro para a turma.
+Reserve alguns segundos para observar cada propaganda.
+Siga os tempos sugeridos no roteiro. As 14 telas principais somam aproximadamente 15 minutos.
+Deixe as duas telas de fontes e créditos disponíveis ao final.
+
+Os arquivos locais incluem as imagens. Os links externos das fontes precisam de internet para abrir.
